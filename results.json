@@ -1,0 +1,2046 @@
+[
+  {
+    "value": "MIT",
+    "count": 50926
+  },
+  {
+    "value": "ISC",
+    "count": 31651
+  },
+  {
+    "value": "Apache-2.0",
+    "count": 2928
+  },
+  {
+    "value": "BSD-3-Clause",
+    "count": 1098
+  },
+  {
+    "value": "GPL-3.0",
+    "count": 956
+  },
+  {
+    "value": "UNLICENSED",
+    "count": 596
+  },
+  {
+    "value": "Unlicense",
+    "count": 308
+  },
+  {
+    "value": "BSD-2-Clause",
+    "count": 289
+  },
+  {
+    "value": "AGPL-3.0",
+    "count": 263
+  },
+  {
+    "value": "WTFPL",
+    "count": 255
+  },
+  {
+    "value": "",
+    "count": 244
+  },
+  {
+    "value": "BSD",
+    "count": 225
+  },
+  {
+    "value": "MPL-2.0",
+    "count": 208
+  },
+  {
+    "value": "Apache 2.0",
+    "count": 189
+  },
+  {
+    "value": "SEE LICENSE IN LICENSE",
+    "count": 161
+  },
+  {
+    "value": "CC0-1.0",
+    "count": 135
+  },
+  {
+    "value": "LGPL-3.0",
+    "count": 134
+  },
+  {
+    "value": "GPL-2.0",
+    "count": 129
+  },
+  {
+    "value": "http://polymer.github.io/LICENSE.txt",
+    "count": 94
+  },
+  {
+    "value": "GPLv3",
+    "count": 66
+  },
+  {
+    "value": "AGPL-3.0+",
+    "count": 48
+  },
+  {
+    "value": "GPL",
+    "count": 44
+  },
+  {
+    "value": "Apache",
+    "count": 37
+  },
+  {
+    "value": "SEE LICENSE IN LICENSE.md",
+    "count": 37
+  },
+  {
+    "value": "X11",
+    "count": 36
+  },
+  {
+    "value": "MIT AND Apache-2.0 AND OFL-1.1 AND CC0-1.0",
+    "count": 32
+  },
+  {
+    "value": "MIT License",
+    "count": 30
+  },
+  {
+    "value": "EUPL-1.1",
+    "count": 30
+  },
+  {
+    "value": "CC-BY-4.0",
+    "count": 29
+  },
+  {
+    "value": "UNLICENCED",
+    "count": 27
+  },
+  {
+    "value": "Apache 2",
+    "count": 23
+  },
+  {
+    "value": "CC-BY-NC-SA-3.0",
+    "count": 23
+  },
+  {
+    "value": "Apache License 2.0",
+    "count": 23
+  },
+  {
+    "value": "GNU",
+    "count": 22
+  },
+  {
+    "value": "GPL-3.0+",
+    "count": 20
+  },
+  {
+    "value": "(MIT OR Apache-2.0)",
+    "count": 17
+  },
+  {
+    "value": "INCAR",
+    "count": 16
+  },
+  {
+    "value": "LGPL",
+    "count": 15
+  },
+  {
+    "value": "AGPLv3",
+    "count": 15
+  },
+  {
+    "value": "BSD-2-Clause-FreeBSD",
+    "count": 15
+  },
+  {
+    "value": "UNLICENSE",
+    "count": 15
+  },
+  {
+    "value": "GNU GPLv3",
+    "count": 14
+  },
+  {
+    "value": "SEE LICENSE IN LICENSE.txt",
+    "count": 14
+  },
+  {
+    "value": "VOL",
+    "count": 13
+  },
+  {
+    "value": "Beerware",
+    "count": 12
+  },
+  {
+    "value": "Artistic-2.0",
+    "count": 12
+  },
+  {
+    "value": "Apache2",
+    "count": 12
+  },
+  {
+    "value": "Zlib",
+    "count": 11
+  },
+  {
+    "value": "MIT ",
+    "count": 11
+  },
+  {
+    "value": "BSD 3-Clause",
+    "count": 11
+  },
+  {
+    "value": "LGPL-3.0+",
+    "count": 10
+  },
+  {
+    "value": "LGPL-2.1",
+    "count": 10
+  },
+  {
+    "value": "GPL v2",
+    "count": 10
+  },
+  {
+    "value": "Proprietary",
+    "count": 10
+  },
+  {
+    "value": "APACHE",
+    "count": 9
+  },
+  {
+    "value": "CC-BY-NC-SA-4.0",
+    "count": 9
+  },
+  {
+    "value": "None",
+    "count": 9
+  },
+  {
+    "value": "SEE LICENSE IN <LICENSE>",
+    "count": 9
+  },
+  {
+    "value": "GPL3",
+    "count": 9
+  },
+  {
+    "value": "LicenseRef-LICENSE",
+    "count": 9
+  },
+  {
+    "value": "'MIT'",
+    "count": 9
+  },
+  {
+    "value": "none",
+    "count": 8
+  },
+  {
+    "value": "SEE LICENSE IN License.md",
+    "count": 8
+  },
+  {
+    "value": "private",
+    "count": 8
+  },
+  {
+    "value": "GPL-2.0+",
+    "count": 8
+  },
+  {
+    "value": "GPLv2",
+    "count": 7
+  },
+  {
+    "value": "unlicense",
+    "count": 7
+  },
+  {
+    "value": "Fair",
+    "count": 7
+  },
+  {
+    "value": "EPL-1.0",
+    "count": 7
+  },
+  {
+    "value": "OFL-1.1",
+    "count": 7
+  },
+  {
+    "value": "CC-BY-NC-ND-4.0",
+    "count": 7
+  },
+  {
+    "value": "Apache-2",
+    "count": 7
+  },
+  {
+    "value": "Public Domain",
+    "count": 7
+  },
+  {
+    "value": "GPLV3",
+    "count": 7
+  },
+  {
+    "value": "citiustech",
+    "count": 7
+  },
+  {
+    "value": "Beta access license, see LICENSE.TXT",
+    "count": 7
+  },
+  {
+    "value": "AGPL",
+    "count": 6
+  },
+  {
+    "value": "(MIT)",
+    "count": 6
+  },
+  {
+    "value": "MIC",
+    "count": 6
+  },
+  {
+    "value": "SEE LICENSE IN LICENSE.TXT",
+    "count": 6
+  },
+  {
+    "value": "Apache License, Version 2.0",
+    "count": 6
+  },
+  {
+    "value": "LICENSE",
+    "count": 6
+  },
+  {
+    "value": "Custom",
+    "count": 6
+  },
+  {
+    "value": "BSD-3-Clause-Clear",
+    "count": 5
+  },
+  {
+    "value": "Commercial",
+    "count": 5
+  },
+  {
+    "value": "CC0",
+    "count": 5
+  },
+  {
+    "value": "The Unlicense",
+    "count": 5
+  },
+  {
+    "value": "Luminov",
+    "count": 5
+  },
+  {
+    "value": "proprietary",
+    "count": 5
+  },
+  {
+    "value": "0BSD",
+    "count": 5
+  },
+  {
+    "value": "(MIT OR GPL-2.0)",
+    "count": 5
+  },
+  {
+    "value": "GPL 3.0",
+    "count": 5
+  },
+  {
+    "value": "GNU General Public License v3.0",
+    "count": 5
+  },
+  {
+    "value": "CC-BY-SA-4.0",
+    "count": 5
+  },
+  {
+    "value": "See license in license.md",
+    "count": 5
+  },
+  {
+    "value": "modified MIT License, see http://ezartech.com/ezarstartupkit-license",
+    "count": 5
+  },
+  {
+    "value": "SEE LICENCE IN LICENCE",
+    "count": 5
+  },
+  {
+    "value": "Personal",
+    "count": 4
+  },
+  {
+    "value": "BSD3",
+    "count": 4
+  },
+  {
+    "value": "Apache2.0",
+    "count": 4
+  },
+  {
+    "value": "BSD 2-Clause",
+    "count": 4
+  },
+  {
+    "value": "All rights reserved",
+    "count": 4
+  },
+  {
+    "value": "SEE LICENSE IN license.txt",
+    "count": 4
+  },
+  {
+    "value": "Appunfold",
+    "count": 4
+  },
+  {
+    "value": "SEE LICENSE IN README.md",
+    "count": 4
+  },
+  {
+    "value": "(OFL-1.1 AND MIT)",
+    "count": 4
+  },
+  {
+    "value": "DBAD",
+    "count": 4
+  },
+  {
+    "value": "Apache v2",
+    "count": 4
+  },
+  {
+    "value": "LGPLv3",
+    "count": 4
+  },
+  {
+    "value": "See LICENSE.md",
+    "count": 4
+  },
+  {
+    "value": "AFL-2.0",
+    "count": 4
+  },
+  {
+    "value": "GPL2",
+    "count": 4
+  },
+  {
+    "value": "(LGPL-2.0 or MIT)",
+    "count": 4
+  },
+  {
+    "value": "MPL 2.0",
+    "count": 4
+  },
+  {
+    "value": "Apache Licence",
+    "count": 4
+  },
+  {
+    "value": "M.I.T",
+    "count": 4
+  },
+  {
+    "value": "(ISC OR GPL-3.0)",
+    "count": 4
+  },
+  {
+    "value": "SEE LICENSE IN LISENCE",
+    "count": 4
+  },
+  {
+    "value": "OP3FT",
+    "count": 3
+  },
+  {
+    "value": "EPL",
+    "count": 3
+  },
+  {
+    "value": "MIT/X11",
+    "count": 3
+  },
+  {
+    "value": "AGPL-1.0",
+    "count": 3
+  },
+  {
+    "value": "public",
+    "count": 3
+  },
+  {
+    "value": "public domain",
+    "count": 3
+  },
+  {
+    "value": "GLP",
+    "count": 3
+  },
+  {
+    "value": "BSD-4-Clause",
+    "count": 3
+  },
+  {
+    "value": "MPL",
+    "count": 3
+  },
+  {
+    "value": "SEE LICENSE IN LICENSE.MD",
+    "count": 3
+  },
+  {
+    "value": "Apache License",
+    "count": 3
+  },
+  {
+    "value": "The MIT License (MIT)",
+    "count": 3
+  },
+  {
+    "value": "Facebook Platform License",
+    "count": 3
+  },
+  {
+    "value": "Ocono GmbH Proprietary",
+    "count": 3
+  },
+  {
+    "value": "CC",
+    "count": 3
+  },
+  {
+    "value": "MIT license",
+    "count": 3
+  },
+  {
+    "value": "MPL-2",
+    "count": 3
+  },
+  {
+    "value": "SEE LICENSE IN LICENCE",
+    "count": 3
+  },
+  {
+    "value": "CC-BY-SA-3.0",
+    "count": 3
+  },
+  {
+    "value": "SEE LICENSE IN license.md",
+    "count": 3
+  },
+  {
+    "value": "CC-BY-3.0",
+    "count": 3
+  },
+  {
+    "value": "SEE LICENSE IN UNLICENSE",
+    "count": 3
+  },
+  {
+    "value": "ICS",
+    "count": 3
+  },
+  {
+    "value": "JSON",
+    "count": 3
+  },
+  {
+    "value": "SEE LICENSE IN 'LICENSE' FILE",
+    "count": 3
+  },
+  {
+    "value": "Nexle",
+    "count": 3
+  },
+  {
+    "value": "mit",
+    "count": 3
+  },
+  {
+    "value": "MTI",
+    "count": 3
+  },
+  {
+    "value": "BSD 3-clause",
+    "count": 3
+  },
+  {
+    "value": "2016-2017",
+    "count": 3
+  },
+  {
+    "value": "UPL-1.0",
+    "count": 3
+  },
+  {
+    "value": "MTL",
+    "count": 3
+  },
+  {
+    "value": "MIT \"onclick=alert\"()",
+    "count": 3
+  },
+  {
+    "value": "SAX-PD",
+    "count": 3
+  },
+  {
+    "value": "CECILL-2.1",
+    "count": 3
+  },
+  {
+    "value": "LGPLv2",
+    "count": 3
+  },
+  {
+    "value": "https://polymer.github.io/LICENSE.txt",
+    "count": 3
+  },
+  {
+    "value": "Ask Chet",
+    "count": 2
+  },
+  {
+    "value": "GNUv3",
+    "count": 2
+  },
+  {
+    "value": "SEE LICENSE IN FILE LICENSE.md",
+    "count": 2
+  },
+  {
+    "value": " Apache License",
+    "count": 2
+  },
+  {
+    "value": "all rights reserved",
+    "count": 2
+  },
+  {
+    "value": "Private",
+    "count": 2
+  },
+  {
+    "value": "Public domain",
+    "count": 2
+  },
+  {
+    "value": "PRIVATE",
+    "count": 2
+  },
+  {
+    "value": " ",
+    "count": 2
+  },
+  {
+    "value": "apache-2.0",
+    "count": 2
+  },
+  {
+    "value": "WTFPL-2.0",
+    "count": 2
+  },
+  {
+    "value": "CC-SA-BY-3.0",
+    "count": 2
+  },
+  {
+    "value": "Apache 2.4",
+    "count": 2
+  },
+  {
+    "value": "CC-BY-SA",
+    "count": 2
+  },
+  {
+    "value": "https://www.ni.com/legal/license/",
+    "count": 2
+  },
+  {
+    "value": "NAGA",
+    "count": 2
+  },
+  {
+    "value": "(GPL-2.0 OR LGPL-2.1 OR MPL-1.1)",
+    "count": 2
+  },
+  {
+    "value": "Apache 2.0 License",
+    "count": 2
+  },
+  {
+    "value": "(OFL-1.1 OR MIT)",
+    "count": 2
+  },
+  {
+    "value": "See license in LICENSE",
+    "count": 2
+  },
+  {
+    "value": "APSL-2.0",
+    "count": 2
+  },
+  {
+    "value": "CC-BY-NC-4.0",
+    "count": 2
+  },
+  {
+    "value": "GPL V2",
+    "count": 2
+  },
+  {
+    "value": "W3C",
+    "count": 2
+  },
+  {
+    "value": "(MIT OR GPL-3.0)",
+    "count": 2
+  },
+  {
+    "value": "GNU General Public License 3",
+    "count": 2
+  },
+  {
+    "value": "(ISC)",
+    "count": 2
+  },
+  {
+    "value": "MIT OR GPL-3.0+",
+    "count": 2
+  },
+  {
+    "value": "SEE LICENSE",
+    "count": 2
+  },
+  {
+    "value": "BSD-Clause-3",
+    "count": 2
+  },
+  {
+    "value": "SEE LICENSE IN LICENCE.txt",
+    "count": 2
+  },
+  {
+    "value": "GPL-3.0+ OR MIT",
+    "count": 2
+  },
+  {
+    "value": "MIT OR GPL-2.0",
+    "count": 2
+  },
+  {
+    "value": "Open",
+    "count": 2
+  },
+  {
+    "value": "Based on lodash  <https://lodash.com/license>",
+    "count": 2
+  },
+  {
+    "value": "APACHE-2.0",
+    "count": 2
+  },
+  {
+    "value": "Apache v2.0",
+    "count": 2
+  },
+  {
+    "value": "(BSD-2-Clause) MIT",
+    "count": 2
+  },
+  {
+    "value": "bsd",
+    "count": 2
+  },
+  {
+    "value": "SEE LICENCE IN LICENSE",
+    "count": 2
+  },
+  {
+    "value": "All Rights Reserved",
+    "count": 2
+  },
+  {
+    "value": "Botpress Proprietary License",
+    "count": 2
+  },
+  {
+    "value": "GPL2.0",
+    "count": 2
+  },
+  {
+    "value": "(Apache-2.0 OR MIT)",
+    "count": 2
+  },
+  {
+    "value": "HMH",
+    "count": 2
+  },
+  {
+    "value": "AGPL-3.0 OR SEE LICENSE IN COPYING.md",
+    "count": 2
+  },
+  {
+    "value": "The MIT License",
+    "count": 2
+  },
+  {
+    "value": "ISS",
+    "count": 2
+  },
+  {
+    "value": "BSD-3-clause",
+    "count": 2
+  },
+  {
+    "value": "Robert Bosch GmbH, 2017",
+    "count": 2
+  },
+  {
+    "value": "GPL-3",
+    "count": 2
+  },
+  {
+    "value": "APL",
+    "count": 2
+  },
+  {
+    "value": "pemrouz.mit-license.org",
+    "count": 2
+  },
+  {
+    "value": "SEE LICENSE IN <license.txt>",
+    "count": 2
+  },
+  {
+    "value": "EULA",
+    "count": 2
+  },
+  {
+    "value": "Miami Dade",
+    "count": 2
+  },
+  {
+    "value": "lsc",
+    "count": 2
+  },
+  {
+    "value": "use",
+    "count": 2
+  },
+  {
+    "value": "GNU GPL 3.0",
+    "count": 2
+  },
+  {
+    "value": "N/A",
+    "count": 2
+  },
+  {
+    "value": "GPLv2+",
+    "count": 2
+  },
+  {
+    "value": "no",
+    "count": 2
+  },
+  {
+    "value": "TBD",
+    "count": 2
+  },
+  {
+    "value": "GPL v3",
+    "count": 2
+  },
+  {
+    "value": "OGL",
+    "count": 2
+  },
+  {
+    "value": "MIT, EPL",
+    "count": 2
+  },
+  {
+    "value": "Astroved",
+    "count": 2
+  },
+  {
+    "value": "GNU v3",
+    "count": 2
+  },
+  {
+    "value": "Copyright © 2017 Thunderhead. All rights reserved.",
+    "count": 2
+  },
+  {
+    "value": "TMT",
+    "count": 2
+  },
+  {
+    "value": "Unlicensed",
+    "count": 2
+  },
+  {
+    "value": "ALv2",
+    "count": 2
+  },
+  {
+    "value": "Mozilla Public License, version 2.0",
+    "count": 2
+  },
+  {
+    "value": "BSD-3-Clause-Attribution",
+    "count": 1
+  },
+  {
+    "value": "APACHE2",
+    "count": 1
+  },
+  {
+    "value": "CC-BY-NC-1.0",
+    "count": 1
+  },
+  {
+    "value": "ngo.nguyen",
+    "count": 1
+  },
+  {
+    "value": "See LICENSE.txt",
+    "count": 1
+  },
+  {
+    "value": "martiniware",
+    "count": 1
+  },
+  {
+    "value": "Apache License V2.0 - 2014",
+    "count": 1
+  },
+  {
+    "value": "UNLICENSES",
+    "count": 1
+  },
+  {
+    "value": "Not for pulic",
+    "count": 1
+  },
+  {
+    "value": "CDDL-1.0",
+    "count": 1
+  },
+  {
+    "value": "PLUGIN_LICENSE",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN npm package 'mail'",
+    "count": 1
+  },
+  {
+    "value": "\"ISC\"",
+    "count": 1
+  },
+  {
+    "value": "gopalroy",
+    "count": 1
+  },
+  {
+    "value": "zlib like",
+    "count": 1
+  },
+  {
+    "value": "incar",
+    "count": 1
+  },
+  {
+    "value": "e7",
+    "count": 1
+  },
+  {
+    "value": "MIT (http://www.opensource.org/licenses/mit-license.php)",
+    "count": 1
+  },
+  {
+    "value": "GNU GENERAL PUBLIC LICENSE V3",
+    "count": 1
+  },
+  {
+    "value": "IVS",
+    "count": 1
+  },
+  {
+    "value": "CC-BY-NC-3.0",
+    "count": 1
+  },
+  {
+    "value": "GPL (>= 2)",
+    "count": 1
+  },
+  {
+    "value": "eSpeakers",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN <filename>",
+    "count": 1
+  },
+  {
+    "value": "THE BEERWARE LICENSE",
+    "count": 1
+  },
+  {
+    "value": "rockstar it boyz",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENCE IN Licence.md",
+    "count": 1
+  },
+  {
+    "value": "LML",
+    "count": 1
+  },
+  {
+    "value": "MY",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN EULA",
+    "count": 1
+  },
+  {
+    "value": "Apache License Version 2.0, January 2004",
+    "count": 1
+  },
+  {
+    "value": "gpl",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN memoizeStringOnly.js",
+    "count": 1
+  },
+  {
+    "value": "Wrapbootstrap",
+    "count": 1
+  },
+  {
+    "value": "free to use, if modified just let the link to my github in code as comment",
+    "count": 1
+  },
+  {
+    "value": "Luminov Global Indonesia",
+    "count": 1
+  },
+  {
+    "value": "CC-BY",
+    "count": 1
+  },
+  {
+    "value": "GNU 3",
+    "count": 1
+  },
+  {
+    "value": "http://imperavi.com/redactor/license/",
+    "count": 1
+  },
+  {
+    "value": "RISA",
+    "count": 1
+  },
+  {
+    "value": "http://www.amcharts.com/online-store/licenses-explained/",
+    "count": 1
+  },
+  {
+    "value": "Eclipse Public License + Eclipse Distribution License",
+    "count": 1
+  },
+  {
+    "value": "NM",
+    "count": 1
+  },
+  {
+    "value": "GNU GPL v3",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN BSL.TXT",
+    "count": 1
+  },
+  {
+    "value": "BSD license",
+    "count": 1
+  },
+  {
+    "value": "Apache Licence 2.0",
+    "count": 1
+  },
+  {
+    "value": "GPL-2.0 AND MIT",
+    "count": 1
+  },
+  {
+    "value": "Apache Licence v2",
+    "count": 1
+  },
+  {
+    "value": "Use + Distribution on any type of projects",
+    "count": 1
+  },
+  {
+    "value": "GNU General Public License",
+    "count": 1
+  },
+  {
+    "value": "LGPL 2.1",
+    "count": 1
+  },
+  {
+    "value": "Released under the MIT, BSD, and GPL Licenses",
+    "count": 1
+  },
+  {
+    "value": "Yang Liu",
+    "count": 1
+  },
+  {
+    "value": "superjunjin",
+    "count": 1
+  },
+  {
+    "value": "Please refer to Opentok's licensing: https://tokbox.com",
+    "count": 1
+  },
+  {
+    "value": "MirOS",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN LICENSE file",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN https://chromium.googlesource.com/chromium/src/+/master/LICENSE",
+    "count": 1
+  },
+  {
+    "value": "jet.com",
+    "count": 1
+  },
+  {
+    "value": "FRS",
+    "count": 1
+  },
+  {
+    "value": "Apache License v2.0",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN licence.md",
+    "count": 1
+  },
+  {
+    "value": "Rapid Feedback Team (RFT)",
+    "count": 1
+  },
+  {
+    "value": "MIT AND OFL-1.1",
+    "count": 1
+  },
+  {
+    "value": "Open Source",
+    "count": 1
+  },
+  {
+    "value": "GNU GENERAL PUBLIC LICENSE",
+    "count": 1
+  },
+  {
+    "value": "apache2",
+    "count": 1
+  },
+  {
+    "value": "Ebizu",
+    "count": 1
+  },
+  {
+    "value": "No License",
+    "count": 1
+  },
+  {
+    "value": "LexisNexis (Private)",
+    "count": 1
+  },
+  {
+    "value": "BEERWARE",
+    "count": 1
+  },
+  {
+    "value": "Mozilla Public License 2.0",
+    "count": 1
+  },
+  {
+    "value": "OFL",
+    "count": 1
+  },
+  {
+    "value": "NPL",
+    "count": 1
+  },
+  {
+    "value": "Lesser GPL",
+    "count": 1
+  },
+  {
+    "value": "ASL",
+    "count": 1
+  },
+  {
+    "value": "Apache software license, Version 2.0",
+    "count": 1
+  },
+  {
+    "value": "Apache V2",
+    "count": 1
+  },
+  {
+    "value": "-",
+    "count": 1
+  },
+  {
+    "value": "MITNFA",
+    "count": 1
+  },
+  {
+    "value": "anhkha",
+    "count": 1
+  },
+  {
+    "value": "Xnet",
+    "count": 1
+  },
+  {
+    "value": "vanhuu.phuong",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN https://firebase.google.com/terms/",
+    "count": 1
+  },
+  {
+    "value": "Copyright (c) 2017 Zane Hitchcox",
+    "count": 1
+  },
+  {
+    "value": "Do What the Fuck You Want to Public License",
+    "count": 1
+  },
+  {
+    "value": "Apache License 2.0 <http://www.apache.org/licenses/>",
+    "count": 1
+  },
+  {
+    "value": "NewMobWhiz",
+    "count": 1
+  },
+  {
+    "value": "Atyantik",
+    "count": 1
+  },
+  {
+    "value": "(MIT OR GPLv2)",
+    "count": 1
+  },
+  {
+    "value": "TEST",
+    "count": 1
+  },
+  {
+    "value": "CA Technologies Ltd.",
+    "count": 1
+  },
+  {
+    "value": "GNU v3.0",
+    "count": 1
+  },
+  {
+    "value": "(MIT AND Apache-2.0)",
+    "count": 1
+  },
+  {
+    "value": "MIT License, http://www.opensource.org/licenses/MIT",
+    "count": 1
+  },
+  {
+    "value": "CC01",
+    "count": 1
+  },
+  {
+    "value": "Unlicense OR 1=1; DROP DATABASE spdx --",
+    "count": 1
+  },
+  {
+    "value": "CC BY-SA 2.0",
+    "count": 1
+  },
+  {
+    "value": "GNU LGPL v3.0",
+    "count": 1
+  },
+  {
+    "value": "NCSA",
+    "count": 1
+  },
+  {
+    "value": "BSL-1.0",
+    "count": 1
+  },
+  {
+    "value": "(MIT AND GPL-2.0)",
+    "count": 1
+  },
+  {
+    "value": "Copyright Russell A. Farrow. All Rights Reserved.",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN <LICENSE.txt>.",
+    "count": 1
+  },
+  {
+    "value": " \tAGPL-3.0",
+    "count": 1
+  },
+  {
+    "value": "TenToTen",
+    "count": 1
+  },
+  {
+    "value": "w3c",
+    "count": 1
+  },
+  {
+    "value": "CC-BY-ND",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN LICENSE ",
+    "count": 1
+  },
+  {
+    "value": "Dual licensed under the MIT and GPL licenses.",
+    "count": 1
+  },
+  {
+    "value": "Creative Commons",
+    "count": 1
+  },
+  {
+    "value": "Apache 2 License",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN conrec.js",
+    "count": 1
+  },
+  {
+    "value": "GNU GPL",
+    "count": 1
+  },
+  {
+    "value": "IMPLY",
+    "count": 1
+  },
+  {
+    "value": "MDD 2017",
+    "count": 1
+  },
+  {
+    "value": "(MIT OR BSD-3-Clause)",
+    "count": 1
+  },
+  {
+    "value": "DeCurtis Corporation",
+    "count": 1
+  },
+  {
+    "value": "(BSD-2-Clause OR MIT OR Apache-2.0)",
+    "count": 1
+  },
+  {
+    "value": "(GPL-2.0)",
+    "count": 1
+  },
+  {
+    "value": "Use + Distribute on ANY type of projects/products",
+    "count": 1
+  },
+  {
+    "value": "CC-BY-2.0",
+    "count": 1
+  },
+  {
+    "value": "MIK",
+    "count": 1
+  },
+  {
+    "value": "MIT licensed",
+    "count": 1
+  },
+  {
+    "value": "MIT\t",
+    "count": 1
+  },
+  {
+    "value": "CHIP Digital GmbH",
+    "count": 1
+  },
+  {
+    "value": "BSD-2.0",
+    "count": 1
+  },
+  {
+    "value": "Public domain(unlicense)",
+    "count": 1
+  },
+  {
+    "value": "Apahce-2.0",
+    "count": 1
+  },
+  {
+    "value": "goodcity-1.0",
+    "count": 1
+  },
+  {
+    "value": "GNU GPL3",
+    "count": 1
+  },
+  {
+    "value": "GPL License v3 with ADDITIONAL TERM per GPL Section 7",
+    "count": 1
+  },
+  {
+    "value": "Esri-only",
+    "count": 1
+  },
+  {
+    "value": "Commercial Confidential",
+    "count": 1
+  },
+  {
+    "value": "CC-BY-NC",
+    "count": 1
+  },
+  {
+    "value": "\tMIT",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN README.txt.",
+    "count": 1
+  },
+  {
+    "value": "ISC ",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN LICENSE FILE",
+    "count": 1
+  },
+  {
+    "value": "http://www.makehuman.org/license.php",
+    "count": 1
+  },
+  {
+    "value": "CC BY-NC-SA",
+    "count": 1
+  },
+  {
+    "value": "LICENSED",
+    "count": 1
+  },
+  {
+    "value": "GNU LESSER GENERAL PUBLIC LICENSE Version 2.1, February 1999",
+    "count": 1
+  },
+  {
+    "value": "CC-BY 2.0",
+    "count": 1
+  },
+  {
+    "value": "see attached licecne file",
+    "count": 1
+  },
+  {
+    "value": "ISC OR GPL-3.0",
+    "count": 1
+  },
+  {
+    "value": "SEE IN LICENSE",
+    "count": 1
+  },
+  {
+    "value": "No license",
+    "count": 1
+  },
+  {
+    "value": "New Relic proprietary",
+    "count": 1
+  },
+  {
+    "value": "Apache License Version 2.0",
+    "count": 1
+  },
+  {
+    "value": "The Unlicense (see https://unlicense.org)",
+    "count": 1
+  },
+  {
+    "value": "APACHE 2",
+    "count": 1
+  },
+  {
+    "value": "VMWare license",
+    "count": 1
+  },
+  {
+    "value": "non-commercial",
+    "count": 1
+  },
+  {
+    "value": "CC BY-NC-ND 4.0",
+    "count": 1
+  },
+  {
+    "value": "Unicode-TOU",
+    "count": 1
+  },
+  {
+    "value": "https://github.com/MvcControlsToolkit/mvcct-odata/blob/master/LICENSE.txt",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN http://miro.mit-license.org",
+    "count": 1
+  },
+  {
+    "value": "LGPL-2.1+",
+    "count": 1
+  },
+  {
+    "value": "http://unlicense.org/",
+    "count": 1
+  },
+  {
+    "value": "THE UNLICENSE",
+    "count": 1
+  },
+  {
+    "value": "N",
+    "count": 1
+  },
+  {
+    "value": "YOUR SOUL",
+    "count": 1
+  },
+  {
+    "value": "CC-SA-BY-2.0",
+    "count": 1
+  },
+  {
+    "value": "see LICENSE file",
+    "count": 1
+  },
+  {
+    "value": "na",
+    "count": 1
+  },
+  {
+    "value": "proprietary commercial",
+    "count": 1
+  },
+  {
+    "value": "MPL/GPL",
+    "count": 1
+  },
+  {
+    "value": "AFL-3.0",
+    "count": 1
+  },
+  {
+    "value": "Moblor",
+    "count": 1
+  },
+  {
+    "value": "https://www.highcharts.com/license",
+    "count": 1
+  },
+  {
+    "value": "gpl v3",
+    "count": 1
+  },
+  {
+    "value": "apache 2.0",
+    "count": 1
+  },
+  {
+    "value": "GNU3",
+    "count": 1
+  },
+  {
+    "value": "Free",
+    "count": 1
+  },
+  {
+    "value": " Apache-2.0",
+    "count": 1
+  },
+  {
+    "value": "Medpla",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN <your-license-filename>",
+    "count": 1
+  },
+  {
+    "value": "CECILL-B",
+    "count": 1
+  },
+  {
+    "value": "LGPL-2.0",
+    "count": 1
+  },
+  {
+    "value": "non-free",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN <README.md>",
+    "count": 1
+  },
+  {
+    "value": "(0BSD OR MIT)",
+    "count": 1
+  },
+  {
+    "value": "XUMAK",
+    "count": 1
+  },
+  {
+    "value": "UCSA",
+    "count": 1
+  },
+  {
+    "value": "Apache Licence 2",
+    "count": 1
+  },
+  {
+    "value": "GNU GPL V3",
+    "count": 1
+  },
+  {
+    "value": "GNUPL",
+    "count": 1
+  },
+  {
+    "value": "MIT and OFL",
+    "count": 1
+  },
+  {
+    "value": "ZPL 1.2",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN NOTHING",
+    "count": 1
+  },
+  {
+    "value": "isc",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN LICENSE.pdf",
+    "count": 1
+  },
+  {
+    "value": "Boost Software License - Version 1.0",
+    "count": 1
+  },
+  {
+    "value": "BSD 2-Clause + Modifications",
+    "count": 1
+  },
+  {
+    "value": "GPLv2/BSD 2-Clause",
+    "count": 1
+  },
+  {
+    "value": "OpenSSL",
+    "count": 1
+  },
+  {
+    "value": "Public Domain + others",
+    "count": 1
+  },
+  {
+    "value": "Ed Schofield",
+    "count": 1
+  },
+  {
+    "value": "PSF",
+    "count": 1
+  },
+  {
+    "value": "zlib and Boost",
+    "count": 1
+  },
+  {
+    "value": "BSD 3-Clause + PATENTS",
+    "count": 1
+  },
+  {
+    "value": "X11 License",
+    "count": 1
+  },
+  {
+    "value": "GPL-2.0\t",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN epl-v10",
+    "count": 1
+  },
+  {
+    "value": "(GPL-2.0 OR MIT)",
+    "count": 1
+  },
+  {
+    "value": "dfhe",
+    "count": 1
+  },
+  {
+    "value": "GPL V3",
+    "count": 1
+  },
+  {
+    "value": "SHIYE",
+    "count": 1
+  },
+  {
+    "value": "MPL V2",
+    "count": 1
+  },
+  {
+    "value": "No-LIC",
+    "count": 1
+  },
+  {
+    "value": "Nueve solutuions",
+    "count": 1
+  },
+  {
+    "value": "CPAL-1.0",
+    "count": 1
+  },
+  {
+    "value": "zlib",
+    "count": 1
+  },
+  {
+    "value": "Artistic License 2.0",
+    "count": 1
+  },
+  {
+    "value": "2016-2016",
+    "count": 1
+  },
+  {
+    "value": "ISxC",
+    "count": 1
+  },
+  {
+    "value": "BSD-2-CLAUSE",
+    "count": 1
+  },
+  {
+    "value": "NDA",
+    "count": 1
+  },
+  {
+    "value": "BSD License",
+    "count": 1
+  },
+  {
+    "value": "All Right Reserved",
+    "count": 1
+  },
+  {
+    "value": "TeleCMI SDK License",
+    "count": 1
+  },
+  {
+    "value": "MPL2.0",
+    "count": 1
+  },
+  {
+    "value": "Kiran",
+    "count": 1
+  },
+  {
+    "value": "(c) 2017 Tridiam Studios. Dont use this package never.",
+    "count": 1
+  },
+  {
+    "value": "Apache Version 2",
+    "count": 1
+  },
+  {
+    "value": "TeleCMI SDK Licience",
+    "count": 1
+  },
+  {
+    "value": "RHJ",
+    "count": 1
+  },
+  {
+    "value": "EGG",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN http://polymer.github.io/LICENSE.txt",
+    "count": 1
+  },
+  {
+    "value": "https://www.karmadata.com/Policy/Terms",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN fwefwe.README",
+    "count": 1
+  },
+  {
+    "value": "BOII",
+    "count": 1
+  },
+  {
+    "value": "Mobitor",
+    "count": 1
+  },
+  {
+    "value": "Personal Use Only",
+    "count": 1
+  },
+  {
+    "value": "Squish Tech, LLC",
+    "count": 1
+  },
+  {
+    "value": "LicenseRef",
+    "count": 1
+  },
+  {
+    "value": "EPL1.0",
+    "count": 1
+  },
+  {
+    "value": "SEE LICENSE IN <http://collaborativejs.org/buy>",
+    "count": 1
+  },
+  {
+    "value": "Apache Public License v2",
+    "count": 1
+  },
+  {
+    "value": "LGPL 3",
+    "count": 1
+  },
+  {
+    "value": "NO LICENSE",
+    "count": 1
+  },
+  {
+    "value": "COMMERCIAL",
+    "count": 1
+  },
+  {
+    "value": "TeeterPal",
+    "count": 1
+  },
+  {
+    "value": "Proprietry",
+    "count": 1
+  },
+  {
+    "value": "Propreitry",
+    "count": 1
+  },
+  {
+    "value": "DreamArts All Rights Reserved.",
+    "count": 1
+  },
+  {
+    "value": "BSC",
+    "count": 1
+  },
+  {
+    "value": "Ivanti License",
+    "count": 1
+  },
+  {
+    "value": "http://www.jqwidgets.com/license/",
+    "count": 1
+  },
+  {
+    "value": "Apache Version 2.0",
+    "count": 1
+  },
+  {
+    "value": "(GPL-3.0+ AND MIT)",
+    "count": 1
+  },
+  {
+    "value": "http://bootstrapvalidator.com/license/",
+    "count": 1
+  },
+  {
+    "value": "See license in license.txt",
+    "count": 1
+  },
+  {
+    "value": "IST",
+    "count": 1
+  },
+  {
+    "value": "(ISC AND CC-BY-3.0)",
+    "count": 1
+  },
+  {
+    "value": "Apache Licence Version 2.0",
+    "count": 1
+  },
+  {
+    "value": "BSL",
+    "count": 1
+  },
+  {
+    "value": "BSD 3",
+    "count": 1
+  },
+  {
+    "value": "MPL 1.1, GPL 2.0, LGPL 2.1 or CeCILL 2.O",
+    "count": 1
+  },
+  {
+    "value": "1.0",
+    "count": 1
+  },
+  {
+    "value": "Dave",
+    "count": 1
+  },
+  {
+    "value": "SIL OPEN FONT LICENSE Version 1.1",
+    "count": 1
+  },
+  {
+    "value": "Copyright (circle) 2015-16 Axalent Solutions (Shanghai) Co., Ltd.",
+    "count": 1
+  },
+  {
+    "value": "MPL-v2",
+    "count": 1
+  },
+  {
+    "value": "Gabriel Corporation.",
+    "count": 1
+  },
+  {
+    "value": "NBU",
+    "count": 1
+  },
+  {
+    "value": "GPL-2",
+    "count": 1
+  },
+  {
+    "value": "BSD-3",
+    "count": 1
+  },
+  {
+    "value": "(c) 2016 - 2017 Wikitude GmbH - see License.md for details of the license",
+    "count": 1
+  },
+  {
+    "value": "Apache License V2",
+    "count": 1
+  },
+  {
+    "value": "Ericsson",
+    "count": 1
+  },
+  {
+    "value": "Ms-PL",
+    "count": 1
+  },
+  {
+    "value": "AECOM",
+    "count": 1
+  },
+  {
+    "value": "Bilger Yahov copyright",
+    "count": 1
+  },
+  {
+    "value": "(LGPL-2.1+ OR GPL-2.0)",
+    "count": 1
+  },
+  {
+    "value": "GNU GENERAL PUBLIC LICENSE Version 3",
+    "count": 1
+  },
+  {
+    "value": "(c) Aaron Sun 2017",
+    "count": 1
+  },
+  {
+    "value": "jCatalog",
+    "count": 1
+  },
+  {
+    "value": "Sisense License",
+    "count": 1
+  },
+  {
+    "value": "PRU",
+    "count": 1
+  },
+  {
+    "value": "0.0.1",
+    "count": 1
+  }
+]
